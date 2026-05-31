@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ih0WcVWP7XI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ismae\\OneDrive\\Documentos\\Faculdade\\pet-protecao-csharp\\pet-protecao-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ismae\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\ismae\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\ismae\\.nuget\\packages\\npgsql\\10.0.1\\npgsql.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
